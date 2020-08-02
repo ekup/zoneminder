@@ -1,5 +1,15 @@
 ## Change Log
 
+###2020.07.19
+- Update baseimage to bionic-1.0.0.
+
+### 2020-07-03
+- Add unknown_faces folder and symlink.
+
+### 3030-06-22
+- Update zmNinja Event Notification Server to version 5.15.5.
+- Add pushover api.
+
 ### 2020-04-03
 - Update zmNinja Event Notification Server to version 5.11.3.
 
